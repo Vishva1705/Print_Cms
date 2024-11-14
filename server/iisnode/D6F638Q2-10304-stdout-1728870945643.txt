@@ -1,0 +1,5 @@
+Server listening on port \\.\pipe\851c3481-942c-4865-a1a4-6357ffa5022a
+Database connected successfully
+50489
+50360
+50360

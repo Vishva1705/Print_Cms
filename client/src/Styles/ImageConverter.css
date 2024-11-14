@@ -1,0 +1,69 @@
+
+
+.image-converter-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .converter-box {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  h2 {
+    font-weight: 600;
+    color: #333;
+  }
+  
+  .form-label {
+    font-weight: 500;
+  }
+  
+  /* button {
+    background-color: #007bff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  } */
+  
+  input[type="file"] {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 576px) {
+    .converter-box {
+      padding: 20px;
+    }
+  }
+
+  .note{
+  margin-top: 24px;
+  font-size: 13px;
+  font-weight: 700;
+  color: red;
+  font-style: italic;
+  }

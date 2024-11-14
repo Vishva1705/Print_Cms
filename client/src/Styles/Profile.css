@@ -1,0 +1,127 @@
+
+.p-body {
+   
+    background: linear-gradient(320deg, #1962b0 0%, #ffffff 100%);
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight:bold;
+  }
+ 
+  .p-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+  }
+ 
+  .p-profile-card {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    padding: 40px 50px;
+    width: 100%;
+    max-width: 600px;
+    text-align: left;
+    font-size: 1.2rem;
+  }
+ 
+  .p-profile-title {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #015BAB;
+
+    padding-bottom: 10px;
+    text-align: center;
+  }
+ 
+  .p-profile-item {
+    margin: 20px 0;
+    color: #555;
+  }
+ 
+  .p-profile-item strong {
+    color: #333;
+    display: inline-block;
+    width: 100px;
+  }
+
+  .edit-icon, .save-icon {
+    margin-left: 50px;
+    cursor: pointer;
+  }
+  
+  .edit-input {
+    margin-left: 10px;
+    padding: 5px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+ 
+  @media (max-width: 768px) {
+    .p-profile-card {
+      width: 90%;
+      padding: 20px;
+    }
+ 
+    .p-profile-title {
+      font-size: 2rem;
+    }
+ 
+    .p-profile-item {
+      font-size: 1rem;
+    }
+  }
+
+
+
+  /* .p-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+  }
+  
+  .p-container {
+    max-width: 900px;
+    width: 100%;
+  }
+  
+  .p-profile-card {
+    background-color: #f5f5f5;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .charts-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+  }
+  
+  .chart {
+    width: 100%;
+    max-width: 600px;
+    height: 400px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  @media (max-width: 768px) {
+    .chart {
+      width: 90%;
+    }
+  }
+   */

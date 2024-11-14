@@ -1,0 +1,2 @@
+Server listening on port \\.\pipe\a04cb564-a88f-4ee9-a28a-0487e886053b
+Database connected successfully

@@ -1,0 +1,6 @@
+Server listening on port \\.\pipe\339f15e7-0749-42e3-809b-9fb4cc21746f
+Database connected successfully
+50061
+50183
+Received request with date: 2024-10-15 productId: TAMILTH zoneId: All Active: undefined
+Received request with date: 2024-10-15 productId: TAMILTH zoneId: ALL Active: undefined
